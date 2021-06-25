@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>Shift Mac</title>
+      <link>https://updates.tryshift.com/appcast-mac.xml</link>
+      <description>Most recent changes with links to updates.</description>
+      <language>en</language>
+         <item>
+            <title>v0.0.0.0</title>
+            <pubDate>Thursday, 24 June 2021 19:20:11 +0000</pubDate>
+            <enclosure url="https://github.com/rdbrck/shift-releases/releases/v0.0.0.0/Shift.dmg" sparkle:version="0.0.0.0" length="" type="application/octet-stream" sparkle:dsaSignature="" />
+         </item>
+   </channel>
+</rss>
+
