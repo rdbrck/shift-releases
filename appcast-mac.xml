@@ -8,7 +8,7 @@
          <item>
             <title>v0.0.0.0</title>
             <pubDate>Thursday, 24 June 2021 19:20:11 +0000</pubDate>
-            <enclosure url="https://github.com/rdbrck/shift-releases/releases/v0.0.0.0/Shift.dmg" sparkle:version="0.0.0.0" length="" type="application/octet-stream" sparkle:dsaSignature="" />
+            <enclosure url="https://github.com/rdbrck/shift-releases/releases/download/v0.0.0.0/Shift.dmg" sparkle:version="0.0.0.0" length="" type="application/octet-stream" sparkle:dsaSignature="" />
          </item>
    </channel>
 </rss>
