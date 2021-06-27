@@ -8,6 +8,7 @@
       <item>
          <title>v0.0.0.1</title>
          <pubDate>Thursday, 25 June 2021 19:20:11 +0000</pubDate>
+         <sparkle:releaseNotesLink></sparkle:releaseNotesLink>
          <enclosure url="https://github.com/rdbrck/shift-releases/releases/download/v0.0.0.1/Shift.dmg" sparkle:version="0.0.0.1" />
          <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
       </item>
