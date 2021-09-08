@@ -4,7 +4,7 @@
       <item>
          <sparkle:releaseNotesLink></sparkle:releaseNotesLink>
          <sparkle:minimumSystemVersion>10.9</sparkle:minimumSystemVersion>
-         <enclosure url="https://github.com/rdbrck/shift-releases/releases/download/v8.0.0.6/Shift.dmg" sparkle:version="8.0.0.6" />
+         <enclosure url="https://github.com/rdbrck/shift-releases/releases/download/v8.0.0.7/Shift.dmg" sparkle:version="8.0.0.7" />
       </item>
    </channel>
 </rss>
